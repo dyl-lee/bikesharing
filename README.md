@@ -19,7 +19,7 @@ A [Tableau story](https://public.tableau.com/app/profile/dylan.lee7603/viz/Bikes
 **Second story point** shows the frequency of bike rides at the starting and ending locations, interrogating the user types and user gender. Color-accessible scheme from [cube helix](https://github.com/jradavenport/cubehelix_hex). 
 > * The most frequent locations coincided with popular NYC sights and landmarks including Grand Central Station and Union Square.
 > * Subscribers' top starting and ending locations were centered around inner Manhattan.
-> * Customer usage saw its most frequent around the perimeter of Central Park and along the Hudson River, which features one of the most popular bike trails in NYC, the Hudson River Greenway.
+> * Customer usage saw its most frequent around the perimeter of Central Park and along the Hudson River, which features one of the [most popular bike trails](https://theculturetrip.com/north-america/usa/new-york/new-york-city/articles/the-10-best-bike-paths-in-new-york/) in NYC, the Hudson River Greenway.
 > * Generally speaking, male/female users followed the geographical trend seen with Subscriber usage (as it is the prevailing user type). Similarly, unknown gender users follow the geographical trend for Customers.
 
 ### When
