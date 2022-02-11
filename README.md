@@ -18,7 +18,8 @@ A [Tableau story](https://public.tableau.com/app/profile/dylan.lee7603/viz/Bikes
 
 **Second story point** shows the frequency of bike rides at the starting and ending locations, interrogating the user types and user gender. Heat map accessible color scheme from [cube helix](https://github.com/jradavenport/cubehelix_hex). 
 > * The most frequent locations coincided with popular NYC sights and landmarks including Grand Central Station and Union Square.
-> * Subscribers' top starting and ending locations were centered around inner Manhattan where as Customer usage tended the perimeter of Central Park and North Manhattan along the Hudson River.
+> * Subscribers' top starting and ending locations were centered around inner Manhattan.
+> * Customer usage saw its most frequent around the perimeter of Central Park and along the Hudson River, which features one of the most popular bike trails in NYC, the Hudson River Greenway.
 > * Generally speaking, male/female users followed the geographical trend seen with Subscriber usage (as it is the prevailing user type). Similarly, unknown gender users follow the geographical trend for Customers.
 
 ### When
@@ -33,7 +34,10 @@ A [Tableau story](https://public.tableau.com/app/profile/dylan.lee7603/viz/Bikes
 
 **Fourth story point** breaks down bike usage by weekday and hour per day. 
 > * At a high level, users tended to use bikes during bursts coinciding with work transit hours 7-9AM to about 5-7PM of weekdays or during the weekend with moderate usage spread over several hours (approximately 10AM to 7PM).
-> * Comparing user types showed Subscribers, in particular male Subscribers, significantly contributed to the 'transiting' trend whereas Customers typically rented bikes on the weekend. 
+> * Comparing between the user types male Subscribers, in particular, significantly contributed to the 'transiting' trend whereas Customers typically rented bikes on the weekend. 
+
+### Summary
+The NYC Citi Bike program's greatest participating demographic, by numbers, are annual Subscribers (male majority) who appear to be working professionals in their 20s to 40s, using the bikes during the transiting hours of conventional work days (Monday to Friday). This group of annual Subscribers typically began and ended their trips within inner Manhattan as opposed to tourist destinations and popular recreational bike trails seen with typical Customer usage. 
 
 ### Other Considerations
 * Frequency is a convenient measure to see which locations/bikes are popular but may not elucidate whether those trips are profitable since Citi Bike's model relies on charging users on their initial chunk of use (30 or 45 minutes) and various rates after the initial time elapses depending on the user type. 
